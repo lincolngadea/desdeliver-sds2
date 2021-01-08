@@ -68,12 +68,6 @@ public class ProductDTO implements Serializable{
 
 	public String getImageUri() {
 		return imageUri;
-	}
-
-	public void setImageUri(String imageUri) {
-		this.imageUri = imageUri;
-	}
-	
-	
+	}	
 	
 }
